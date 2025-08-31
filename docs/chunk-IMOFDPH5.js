@@ -1,1 +1,0 @@
-import{Gb as o,Hb as a,cc as n,fb as r}from"./chunk-JYIFF6EO.js";var l=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=r({type:t,selectors:[["app-world-creator"]],decls:2,vars:0,template:function(e,c){e&1&&(o(0,"p"),n(1,"world-creator works!"),a())},encapsulation:2})};export{l as WorldCreator};

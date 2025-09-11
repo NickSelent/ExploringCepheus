@@ -1,0 +1,1 @@
+import{Cb as r,Db as a,_b as n,bb as o}from"./chunk-7ZUF3SYJ.js";var i=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-world-creator"]],decls:2,vars:0,template:function(e,s){e&1&&(r(0,"h2"),n(1,"Coming Soon!"),a())},encapsulation:2})};export{i as WorldCreator};
